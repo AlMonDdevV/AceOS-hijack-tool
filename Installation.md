@@ -107,7 +107,6 @@ Script will not run
 Make sure you use:
 
 ./install.sh
-Permission denied
 
 Run:
 
